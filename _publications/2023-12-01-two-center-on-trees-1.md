@@ -1,7 +1,7 @@
 ---
 title: "The Two-Center Problem of Uncertain Points on Trees"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2023-12-01-two-center-on-trees-1
 excerpt: 'In this paper, we consider the (weighted) two-center problem of uncertain points on a tree. Given are a tree $T$ and a set $P$ of $n$ (weighted) uncertain points each of which has $m$ possible locations on $T$ associated with probabilities. The goal is to compute two points on $T$, i.e., two centers with respect to $P$, so that the maximum (weighted) expected distance of $n$ uncertain points to their own expected closest center is minimized. In this paper, we give a more efficient and simple algorithm that solves this problem in $O(|T| + mn\log mn)$ time.'
 date: 2023-12-01
