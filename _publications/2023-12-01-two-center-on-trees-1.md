@@ -2,8 +2,8 @@
 title: "The Two-Center Problem of Uncertain Points on Trees"
 collection: publications
 category: manuscripts
-permalink: /publication/
-excerpt: In this paper, we consider the (weighted) two-center problem of uncertain points on a tree. Given are a tree $T$ and a set $P$ of $n$ (weighted) uncertain points each of which has $m$ possible locations on $T$ associated with probabilities. The goal is to compute two points on $T$, i.e., two centers with respect to $\calP$, so that the maximum (weighted) expected distance of $n$ uncertain points to their own expected closest center is minimized. This problem can be solved in $O(|T|+ n^{2}\log n\log mn + mn\log^2 mn \log n)$ time by the algorithm for the general $k$-center problem. In this paper, we give a more efficient and simple algorithm that solves this problem in $O(|T| + mn\log mn)$ time.
+permalink: /publication/2023-12-01-two-center-on-trees-1
+excerpt: 'In this paper, we consider the (weighted) two-center problem of uncertain points on a tree. Given are a tree $T$ and a set $P$ of $n$ (weighted) uncertain points each of which has $m$ possible locations on $T$ associated with probabilities. The goal is to compute two points on $T$, i.e., two centers with respect to $\calP$, so that the maximum (weighted) expected distance of $n$ uncertain points to their own expected closest center is minimized. This problem can be solved in $O(|T|+ n^{2}\log n\log mn + mn\log^2 mn \log n)$ time by the algorithm for the general $k$-center problem. In this paper, we give a more efficient and simple algorithm that solves this problem in $O(|T| + mn\log mn)$ time.'
 date: 2023-12-01
 venue: 'The 16th Annual International Conference on Combinatorial Optimization and Applications'
 slidesurl: 'http://haitaotsui.github.io/files/slides1.pdf'
