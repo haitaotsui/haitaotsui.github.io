@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Computer Science, Cleveland State University, USA, 2024 Summer (expected)
 * M.S. in Software Engineering, Kunming University of Science and Technology,China, 2014
-* Major in Computer Science and Applications, Shandong Institute of Commerce and Technology, China, 2008
+* A.S. in Computer Science and Applications, Shandong Institute of Commerce and Technology, China, 2008
 
 Work experience
 ======
