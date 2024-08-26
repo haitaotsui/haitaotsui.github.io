@@ -11,35 +11,37 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Cleveland State University, USA, 2024 Summer (expected)
+* M.S. in Software Engineering, Kunming University of Science and Technology,China, 2014
+* Major in Computer Science and Applications, Shandong Institute of Commerce and Technology, China, 2008
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+* KEDACOM, Shanghai, China Apr 2016 - Feb 2020
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
 * Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * C/C++ Software Engineer, Trainer
+  * Duties included: Participate in the development of the general components of video conferencing software. These compo-
+nents are used on multiple platforms, including Windows PCs, Android devices, and iOS devices. The
+functions of the components include data transmission, command distribution, real-time message commu-
+nication (based on the XMPP protocol), etc. Besides, serves as a trainer for new department employees,
+guiding them to become familiar with development processes, business knowledge, and technical frame-
+works.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Shanghai Huateng Software Systems Co Ltd, Shanghai, China Aug 2014 - Apr 2016
+  * C/C++ Software Engineer
+  * Duties included: Participate in the development of bank transaction systems. Including: batch trade settlement, report
+lost or stolen debit card, replacement card, card security authentication, etc. Additionally, involved in
+deploying new modules to bank backend production servers.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages & Scripts: C/C++, SHELL;
+* Database Servers: Oracle 10g/9i; Informix; MS;
+* Platforms: Windows, OS X, Android, Unix, Linux;
 
 Publications
 ======
@@ -47,11 +49,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+#Talks
+#======
+#  <ul>{% for post in site.talks reversed %}
+#    {% include archive-single-talk-cv.html  %}
+#  {% endfor %}</ul>
   
 Teaching
 ======
