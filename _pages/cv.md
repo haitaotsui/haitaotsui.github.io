@@ -52,4 +52,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Journal Reviewer: Hindawi Complexity
+* Conference Reviewer: The 40th Chinese Control Conference (CCC’2021)
+* Professional Activities: Being a Judge for Choose Ohio First Symposium at Cleveland State University, in Spring 2022.
