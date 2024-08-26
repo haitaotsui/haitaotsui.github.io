@@ -1,7 +1,7 @@
 ---
 title: "CIS 606 Analysis of Algorithms (TA)"
 collection: teaching
-type: "Graduate course"
+type: "2022 Fall, 2023 Srping; Graduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Cleveland State University, Department of Computer Science"
 date: 2022-08-26
