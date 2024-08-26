@@ -18,11 +18,6 @@ Education
 Work experience
 ======
 * KEDACOM, Shanghai, China Apr 2016 - Feb 2020
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
   * C/C++ Software Engineer, Trainer
   * Duties included: Participate in the development of the general components of video conferencing software. These compo-
 nents are used on multiple platforms, including Windows PCs, Android devices, and iOS devices. The
@@ -49,11 +44,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-#Talks
-#======
-#  <ul>{% for post in site.talks reversed %}
-#    {% include archive-single-talk-cv.html  %}
-#  {% endfor %}</ul>
+//Talks
+//======
+//  <ul>{% for post in site.talks reversed %}
+//    {% include archive-single-talk-cv.html  %}
+//  {% endfor %}</ul>
   
 Teaching
 ======
