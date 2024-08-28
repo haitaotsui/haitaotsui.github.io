@@ -34,7 +34,7 @@ deploying new modules to bank backend production servers.
 
   * Jinan Yuancheng Innovation Technology Co., LTD, Jinan, China, July 2008 - June 2010
   * Software Engineer
-  * Duties included: Based on $C\#$ and Extjs, engaged in the development of automated office systems.
+  * Duties included: Based on C# and Extjs, engaged in the development of automated office systems.
 
 Skills
 ======
