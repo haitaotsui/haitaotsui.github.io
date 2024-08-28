@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Haitao Xu - Site"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Haitao Xu"
 description              : &description "personal description"
