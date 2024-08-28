@@ -32,7 +32,7 @@ works.
 lost or stolen debit card, replacement card, card security authentication, etc. Additionally, involved in
 deploying new modules to bank backend production servers.
 
-  * Jinan Yuancheng Innovation Technology Co., LTD, Jinan, China, July 2008 - June 2010
+* Jinan Yuancheng Innovation Technology Co., LTD, Jinan, China, July 2008 - June 2010
   * Software Engineer
   * Duties included: Based on C# and Extjs, engaged in the development of automated office systems.
 
