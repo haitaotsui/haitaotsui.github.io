@@ -408,8 +408,8 @@ ninja.data = [{
             },},{id: "news-haitao-has-completed-his-ph-d-dissertation-defense",
           title: 'Haitao has completed his Ph.D. dissertation defense.',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-video-conferencing",
+          title: 'Video Conferencing',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
