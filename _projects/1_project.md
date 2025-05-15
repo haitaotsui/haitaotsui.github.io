@@ -2,7 +2,7 @@
 layout: page
 title: Video Conferencing
 description: 
-img: assets/img/project/proj_video_conf2.png
+img: assets/img/project/proj_video_conf1.png
 importance: 1
 category: work
 <!--related_publications: true-->
@@ -18,18 +18,9 @@ works.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project/proj_video_conf2.png" title="Video Conferencing" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/project/proj_video_conf1.png" title="Video Conferencing" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    4*4 Video Conferencing
-</div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/project/proj_video_conf3.png" title="Video Conferencing" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Sharing files
+    Video Conferencing Products
 </div>
