@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Video Conferencing
-description: with background image
+description: 
 img: assets/img/project/proj_video_conf2.png
 importance: 1
 category: work
