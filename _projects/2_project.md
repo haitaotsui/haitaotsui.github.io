@@ -5,7 +5,7 @@ description: Credit card and debit card transaction services.
 img: assets/img/project/proj_bank1.png
 importance: 2
 category: work
-giscus_comments: true
+<!--giscus_comments: true-->
 ---
 
 Participate in the development of bank transaction systems. Including: batch trade settlement, report
