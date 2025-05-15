@@ -410,7 +410,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-video-conferencing",
           title: 'Video Conferencing',
-          description: "with background image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-bank-transaction-systems",
