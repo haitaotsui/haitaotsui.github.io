@@ -5,7 +5,7 @@ description: with background image
 img: assets/img/project/proj_video_conf2.png
 importance: 1
 category: work
-related_publications: true
+<!--related_publications: true-->
 ---
 
 Participate in the development of the general components of video conferencing software. These compo-
