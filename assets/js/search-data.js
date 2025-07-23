@@ -408,7 +408,12 @@ ninja.data = [{
             },},{id: "news-haitao-has-completed-his-ph-d-dissertation-defense",
           title: 'Haitao has completed his Ph.D. dissertation defense.',
           description: "",
-          section: "News",},{id: "projects-video-conferencing",
+          section: "News",},{id: "news-volunteer-for-the-summer-of-innovation-2025",
+          title: 'Volunteer for the Summer of Innovation 2025',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "projects-video-conferencing",
           title: 'Video Conferencing',
           description: "",
           section: "Projects",handler: () => {
