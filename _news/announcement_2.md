@@ -12,6 +12,6 @@ Volunteer for the Summer of Innovation 2025 at the Great Lakes Science Center in
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/news/summer_innovation_25.jpg" class="img-fluid rounded z-depth-1" style="max-width: 500px; width: 100%;" %}
+        {% include figure.liquid loading="eager" path="assets/img/news/summer_innovation_25.jpg" class="img-fluid rounded z-depth-1" style="max-width: 300px; width: 90%;" %}
     </div>
 </div>
