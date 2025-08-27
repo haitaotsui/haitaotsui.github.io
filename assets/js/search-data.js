@@ -423,6 +423,11 @@ ninja.data = [{
           description: "Credit card and debit card transaction services.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-qi-sun-amp-haitao-xu-39-s-research-lab",
+          title: 'Qi Sun &amp;amp; Haitao Xu&amp;#39;s Research Lab',
+          description: "A portfolio-style hub for algorithms and applied AI research.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
             },},{
         id: 'social-email',
         title: 'email',
