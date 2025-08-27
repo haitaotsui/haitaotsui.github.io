@@ -2,15 +2,13 @@
 layout: page
 title: Bank Transaction Systems
 description: Credit card and debit card transaction services.
-img: assets/img/project/proj_bank1.png
+img: assets/img/project/bank_arc.jpg
 importance: 2
 category: work
 <!--giscus_comments: true-->
 ---
 
-Participate in the development of bank transaction systems. Including: batch trade settlement, report
-lost or stolen debit card, replacement card, card security authentication, etc. Additionally, involved in
-deploying new modules to bank backend production servers.
+Participated in the development of a high-reliability, high-concurrency banking transaction system, including features such as information transmission, message distribution, batch transaction settlement, card services, and card security authentication. Additionally involved in deploying new modules to the bank’s backend production servers.
 
 
 <div class="row">
