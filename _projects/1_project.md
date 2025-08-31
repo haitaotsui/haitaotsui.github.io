@@ -9,7 +9,7 @@ category: work
 ---
 
 Worked on the development of a video conferencing product consisting of both ALL-IN-ONE Terminal and Software Terminal  (similar to Zoom). Since the product needed to run across Windows, Android, iOS, and Linux platforms, our team built shared components to integrate various functional modules. My responsibilities included:
-- 1. Maintaining and extending an instant messaging system based on the XMPP protocol (similar to WhatsApp). 
+- 1.Maintaining and extending an instant messaging system based on the XMPP protocol (similar to WhatsApp). 
 - 2.Designing and encapsulating APIs to provide interfaces for the UI. 
 - 3.Developing a camera control module for remote pan/tilt/zoom operations. 
 - 4.Serializing and parsing data using Protobuf, ensuring efficient delivery across modules; 
