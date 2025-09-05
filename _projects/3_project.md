@@ -4,7 +4,7 @@ title: Qi Sun & Haitao Xu's Research Lab
 description: A portfolio-style hub for algorithms and applied AI research.
 img: assets/img/project/research_lab.jpg
 importance: 2
-category: work
+category: fun
 <!--giscus_comments: true-->
 ---
 

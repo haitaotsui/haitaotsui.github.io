@@ -8,7 +8,11 @@ category: work
 <!--giscus_comments: true-->
 ---
 
-Participated in the development of a high-reliability, high-concurrency banking transaction system, including features such as information transmission, message distribution, batch transaction settlement, card services, and card security authentication. Additionally involved in deploying new modules to the bank’s backend production servers.
+Contributed to the development of a high-reliability, low-latency, and high-concurrency debit card transaction system built with C++, Tuxedo, Oracle/Informix, Bash scripts, and Pro*C. The system handled both daily debit card transactions and batch settlement of POS transactions. Responsibilities included: 
+- 1.Conducting requirements analysis for new services, designing interfaces, and defining inter-system data formats. 
+- 2.Writing batch settlement scripts for POS transaction processing. 
+- 3.Coordinating with cross-functional teams to test and validate new services. 
+- 4.Developing a monitoring (heartbeat) process to ensure continuous system availability，automatically restarting failed processes with backup instances to maintain smooth operation.
 
 
 <div class="row">
