@@ -8,11 +8,10 @@ category: work
 <!--giscus_comments: true-->
 ---
 
-Contributed to the development of a high-reliability, low-latency, and high-concurrency debit card transaction system built with C++, Tuxedo, Oracle/Informix, Bash scripts, and Pro*C. The system handled both daily debit card transactions and batch settlement of POS transactions. Responsibilities included: 
-- 1.Conducting requirements analysis for new services, designing interfaces, and defining inter-system data formats. 
-- 2.Writing batch settlement scripts for POS transaction processing. 
-- 3.Coordinating with cross-functional teams to test and validate new services. 
-- 4.Developing a monitoring (heartbeat) process to ensure continuous system availability，automatically restarting failed processes with backup instances to maintain smooth operation.
+- 1.Developed a high-reliability, low-latency, high-concurrency debit card transaction system using C++, Tuxedo, Oracle/Informix, Bash, and Pro*C, ensuring robust and scalable transaction processing.
+- 2.Analyzed requirements, designed interfaces, and defined inter-system data formats for new services, enabling seamless integration and improved system interoperability.
+- 3.Built batch settlement scripts for POS transactions and collaborated with cross-functional teams to test and validate services, enhancing operational efficiency and accuracy.
+- 4.Implemented a monitoring (heartbeat) system to maintain continuous availability, automatically restarting failed processes with backup instances to minimize downtime.
 
 
 <div class="row">
