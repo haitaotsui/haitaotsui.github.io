@@ -20,8 +20,3 @@ nav_order: 6
 
 ### Teaching Demo
 This website presents my teaching demo. [Click here to visit ↗](http://haitao.qisun.top/)
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/teaching_demo.png" title="Teaching Demo" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
