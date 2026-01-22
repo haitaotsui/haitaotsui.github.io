@@ -16,4 +16,6 @@ nav_order: 6
 
 - **CIS 620 Advanced Operating Systems**, Fall 2023  
   Graded assignments and quizzes, and held regular office hours to support students’ understanding of course material.
-  This website presents my teaching demo. [Click here to visit ↗](http://haitao.qisun.top/)
+  This website presents my teaching demo.
+
+- **[Click here to visit ↗](https://haitao.qisun.top/)
